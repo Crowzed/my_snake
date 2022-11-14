@@ -1,0 +1,1 @@
+exec(open('data/menu.py').read())
